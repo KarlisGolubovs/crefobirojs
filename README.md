@@ -54,10 +54,10 @@ Correlation matrix:
 
 The model evaluation results indicate the performance of the model in predicting outcomes based on the given values. Here's an assessment of the model's predictive capability:
 
-The model achieved a Mean Squared Error (MSE) of 0.1133, which suggests that, on average, the squared difference between the predicted outcomes and the actual values is relatively low. A lower MSE indicates better predictive accuracy.
+The Mean Squared Error (MSE) of 0.1133 indicates that, on average, the squared difference between the predicted outcomes and the actual values is relatively low. It is worth noting that MSE acceptability can vary depending on the specific problem, dataset, and domain. However, in many cases, a MSE below 0.5 is considered reasonably good, and lower values suggest a better predictive performance. Therefore, with an MSE of 0.1133, the model's performance can be considered favorable.
 
-The Root Mean Squared Error (RMSE) of 0.3367 signifies the square root of the MSE. This metric provides an estimate of the average prediction error in the original scale of the target variable. A lower RMSE indicates that the model's predictions are closer to the actual values.
+The Root Mean Squared Error (RMSE) of 0.3367 represents the square root of the MSE and provides an estimate of the average prediction error in the original scale of the target variable. In some domains, an RMSE below 1 is considered good, while in others, it could be lower. With an RMSE of 0.3367, the model's predictions are relatively close to the actual values, indicating a favorable performance.
 
-The R-squared value of 0.1773 suggests that approximately 17.73% of the variance in the target variable can be explained by the model's predictions. R-squared measures how well the model fits the data, with higher values indicating a better fit. In this case, the model explains a modest portion of the variation in the outcome.
+Additionally, the R-squared value of 0.1773 suggests that approximately 17.73% of the variance in the target variable can be explained by the model's predictions. R-squared acceptability can vary depending on the field of study and the nature of the problem. In some cases, R-squared values as low as 0.1 might be considered acceptable, while in other cases, values closer to 0.9 or higher may be desired. Therefore, with an R-squared value of 0.1773, the model's explanatory power is limited but still provides some useful insights.
 
 Overall, based on these evaluation metrics, the model demonstrates a moderate level of predictive performance.
