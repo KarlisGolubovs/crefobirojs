@@ -27,12 +27,12 @@ This Python code demonstrates the implementation of a linear regression model fo
 
 ## Demo
 
-## Dataset Information
+### Dataset Information
 - Number of instances: 1000
 - Number of predictors: 7
 - Target variable: y
 
-## Exploratory Analysis
+### Exploratory Analysis
 Correlation matrix:
 |       |      y |      v1 |      v2 |      v3 |      v4 |      v5 |      v6 |      v7 |
 |------:|-------:|--------:|--------:|--------:|--------:|--------:|--------:|--------:|
@@ -45,7 +45,7 @@ Correlation matrix:
 |    v6 |  0.0351 |  0.0240 | -0.0051 |  0.0361 |  0.0355 | -0.0276 |  1.0000 | -0.0377 |
 |    v7 |  0.1508 |  0.0201 | -0.0350 |  0.0905 |  0.0140 | -0.0380 | -0.0377 |  1.0000 |
 
-## Model Evaluation
+### Model Evaluation
 - Mean Squared Error (MSE): 0.11334201041459455
 - Root Mean Squared Error (RMSE): 0.3366630517514426
 - R-squared: 0.17733979013177625
