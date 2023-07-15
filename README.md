@@ -25,9 +25,9 @@ This Python code demonstrates the implementation of a linear regression model fo
 4. Run the code and observe the model evaluation metrics.
 5. Feel free to customize the code according to your specific dataset and requirements.
 
-## Demo
+# Demo
 
-### Dataset Information
+Dataset Information:
 - Number of instances: 1000
 - Number of predictors: 7
 - Target variable: y
