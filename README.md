@@ -27,7 +27,7 @@ This Python code demonstrates the implementation of a linear regression model fo
 
 # Demo
 
-Dataset Information:
+**Dataset Information:**
 - Number of instances: 1000
 - Number of predictors: 7
 - Target variable: y
