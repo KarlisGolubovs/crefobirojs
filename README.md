@@ -24,5 +24,3 @@ This Python code demonstrates the implementation of a linear regression model fo
 3. Modify the list of predictor variables (`v1`, `v2`, `v3`, etc.) to match the column names in your dataset.
 4. Run the code and observe the model evaluation metrics.
 5. Feel free to customize the code according to your specific dataset and requirements.
-
-![Screenshot](C:\Users\karli\Desktop\result.png)
